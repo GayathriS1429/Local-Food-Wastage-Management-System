@@ -71,7 +71,7 @@ This project aims to reduce food waste by connecting food **Providers** (restaur
 
 | Home Page | Filtered Tables | Visual Insights |
 |-----------|------------------|------------------|
-| ![Home](./assets/intro.png) | ![Tables](./assets/table.png) | ![Charts](./assets/chart.png) |
+| ![Home](./assets/home.png) | ![Tables](./assets/table.png) | ![Charts](./assets/chart.png) |
 
 ---
 
